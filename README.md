@@ -36,6 +36,13 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 * Develop an innovative solution
 * Share with others
 
+## Typical Practice Schedule
+* Come in and set-up practice board
+* Team meeting. What did I get done last time, what am I working on today, what would I like help with?
+* Divide up and and get to work on tasks
+* Meet up 15 minutes before practice ends to talk about what was frustrating today, what went well, what are we excited for, etc. Update planning board cards to reflect accomplishments.
+* Clean-up
+
 ## Resources
 
 ### Line Following
