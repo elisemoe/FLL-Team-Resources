@@ -23,7 +23,7 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 * Use the [engineering design process](/Build/engineering-design-process.md) to plan the robot and attachments
 * Get feedback from the team
 * Re-design the robot
-* Asses the deisgn using the [rubric](/Build/robot-design-rubric.md)
+* Assess the deisgn using the [rubric](/Build/robot-design-rubric.md)
 * Build!
 * Complete the [port diagram worksheet](/robot-port-diagram-worksheet.md)
 * Drop test, straight test, motor matching
