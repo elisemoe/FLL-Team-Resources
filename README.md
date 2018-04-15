@@ -10,6 +10,32 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## Typical Season Schedule
+1. Learning about core values, set team goals and expectations (including document/code management)
+2. Project research, field trip planning, fundraising kick-off
+
+### 3. Tracks
+
+#### Build
+* Learn about design strategies and types of attachments
+* Prototype attachments and robot components
+* Work with the strategy team to decide what challenges to work on (as soon as the competition is released)
+* Design the robot and attachments
+* Get feedback from the team
+* Re-design the robot
+* Build!
+
+#### Code
+* Strategize and plan competition runs (coordinate with build team)
+* Brainstorm, build, and test reusible code components
+* Write pseudo code for all competition runs
+* Code challenges
+
+#### Project
+* Ientify a problem
+* Develop an innovative solution
+* Share with others
+
 ## Resources
 
 ### Line Following
