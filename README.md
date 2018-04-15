@@ -31,6 +31,7 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 * Competition: write the Robot Executive Design Summary
 
 #### Code
+* Learn how to code with EV3 programming blocks
 * Strategize and plan competition runs (coordinate with build team)
 * Brainstorm, build, and test reusible code components
 * Write pseudo code for all competition runs
