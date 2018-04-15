@@ -1,4 +1,4 @@
-# FLL Team Resources
+# FLL Coach Resources
 
 This repository contains resources for coaching FIRST Lego League. All season specific documentation and code can be found on the team page [here](https://github.com/CKSPantherGirlsRobotics).
 
