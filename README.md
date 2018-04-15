@@ -30,6 +30,7 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 * Brainstorm, build, and test reusible code components
 * Write pseudo code for all competition runs
 * Code challenges
+* Test, Test, Test
 
 #### Project
 * Ientify a problem
