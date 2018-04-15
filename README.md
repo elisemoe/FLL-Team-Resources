@@ -25,6 +25,7 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 * Re-design the robot
 * Build!
 * Drop test, straight test, motor matching
+* Write the Robot Executive Design Summary
 
 #### Code
 * Strategize and plan competition runs (coordinate with build team)
