@@ -11,7 +11,7 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 5. Submit a pull request :D
 
 ## Typical Season Schedule
-### 1. Learning about core values, set team goals and expectations (including document/code management)
+### 1. Learn about core values, set team goals and expectations (including document/code management)
 ### 2. Project research, field trip planning, fundraising kick-off
 
 ### 3. Tracks
