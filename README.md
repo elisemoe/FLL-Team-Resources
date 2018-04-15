@@ -50,7 +50,7 @@ This repository contains resources for coaching FIRST Lego League. All season sp
 * Meet up 15 minutes before practice ends to talk about what was frustrating today, what went well, what are we excited for, etc. Update planning board cards to reflect accomplishments.
 * Clean-up
 
-## Resources
+## Additional Resources
 
 ### Line Following
 * Types of line followers: http://ev3lessons.com/translations/en-us/advanced/LineFollower.pdf
